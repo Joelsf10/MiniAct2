@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MiniAct2"
 include(":app")
+include(":app2")
